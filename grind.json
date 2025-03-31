@@ -1,0 +1,19 @@
+{
+    "name": "GRIND",
+    "symbol": "GRIND",
+    "decimals": 9,
+    "address": "Gh6iHEtAdq3biNmCSwnNQNC2qVg5aoHUw4AQv69TZmGv",
+    "chainId": 101,
+    "logoURI": "https://example.com/logo.png",
+    "tags": [
+        "meme",
+        "community",
+        "hedgehog",
+        "grind"
+    ],
+    "extensions": {
+        "website": "https://grindtoken.io",
+        "twitter": "https://twitter.com/grindtoken",
+        "description": "GRIND is a meme coin with a mission\u2014built to hedge hustle and reward perseverance."
+    }
+}
