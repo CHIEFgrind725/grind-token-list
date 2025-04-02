@@ -1,0 +1,13 @@
+{
+  "name": "GRIND",
+  "symbol": "GRIND",
+  "decimals": 9,
+  "address": "HAYgBSZW6sArdGjBuDawCatfUr7NjVG9YcrbCRoukRPa",
+  "logoURI": "https://raw.githubusercontent.com/CHIEFgrind725/GRIND_PADD/main/be541943-5e12-4011-b9d1-dba2570a0469.png",
+  "tags": ["utility-token", "meme", "staking", "governance"],
+  "extensions": {
+    "website": "https://grindtoken.xyz",
+    "twitter": "https://twitter.com/grindprotocol",
+    "description": "GRIND is a token that starts as a meme and evolves into a trust-based, tiered platform for staking, governance, and idea incubation."
+  }
+}
