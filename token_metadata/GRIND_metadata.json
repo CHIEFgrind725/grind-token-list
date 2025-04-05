@@ -1,0 +1,57 @@
+{
+  "name": "GRIND",
+  "symbol": "GRIND",
+  "description": "GRIND is more than a meme — it’s momentum. Built as a hedge for speculators, powered by community, and driven by the unstoppable force of those who refuse to quit. This token is your shield when things go south and your wings when it all takes off. Are you in?",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaUyyN15DR6KjETPsoP5e3NUZyMZDYbgjEysMMtfNKNDz/logo.png",
+  "external_url": "https://grind-token.io",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Financial Rebellion"
+    },
+    {
+      "trait_type": "Phase",
+      "value": "Seed to Surge"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "700,000,000"
+    },
+    {
+      "trait_type": "Sell Fee",
+      "value": "1.3%"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Staking, Governance, LP Support"
+    },
+    {
+      "trait_type": "Mascot",
+      "value": "Anime Hedgehog"
+    },
+    {
+      "trait_type": "Lore Access",
+      "value": "YES"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmaUyyN15DR6KjETPsoP5e3NUZyMZDYbgjEysMMtfNKNDz/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HAYgBSZW6sArdGjBuDawCatfUr7NjVG9YcrbCRoukRPa",
+        "share": 100
+      }
+    ]
+  }
+}
